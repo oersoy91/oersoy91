@@ -15,6 +15,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oersoy91&layout=compact&theme=radical&hide=ruby"></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=oersoy91&show_icons=true&theme=radical"></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oersoy91&layout=compact&theme=radical&hide=ruby"></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=oersoy91&show_icons=true&theme=radical"></p>
 
